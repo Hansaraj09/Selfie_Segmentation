@@ -1,14 +1,18 @@
 # Selfie Segmentation Application
 
-I developed this application to selectively focus on important regions in webcam images. It leverages OpenCV, Mediapipe, Matplotlib and NumPy for image processing and employs Gradio for web deployment.
+I developed this application to focus on important regions in webcam images selectively. It leverages OpenCV, Mediapipe, Matplotlib and NumPy for image processing and employs Gradio for web deployment.
 
 ## Dependencies
 
-1.OpenCV : It helps is capturing the feed through the webcam.
-2.Mediapipe: It helps in pre-processing the captured image
-3.Matplolib: It helps in plotting the image by setting up the axes.
-4.NumPy: It helps in blurring or darkening the less important regions of the image.
-5.Gradio: It is a simple application for used for creating web-application especially for jupyter notebooks.
+1. **OpenCV**: It helps in capturing the feed through the webcam.
+
+2. **Mediapipe**: It helps in pre-processing the captured image.
+
+3. **Matplolib**: It helps plot the image by setting up the axes.
+
+4.**NumPy**: It helps in blurring or darkening the less important regions of the image.
+
+5. **Gradio**: It is a simple application for creating web applications, especially for jupyter notebooks.
 
 ## Datasets
 
@@ -22,7 +26,7 @@ I developed this application to selectively focus on important regions in webcam
 
 ## About Gradio
 
-(Click Here)[https://github.com/gradio-app/gradio]
+[Click Here](https://github.com/gradio-app/gradio)
 
 
 
